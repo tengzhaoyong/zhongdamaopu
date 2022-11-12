@@ -1,5 +1,6 @@
 {
   "usingComponents": {
     "heart": "/packages/heart-button/heart"
-  }
+  },
+  "navigationBarTitleText": "相册精选"
 }
